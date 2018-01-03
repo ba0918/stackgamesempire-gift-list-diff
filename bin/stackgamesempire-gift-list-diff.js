@@ -13,7 +13,7 @@ const cli = meow(
       --output Output to write gift list json file
 
     Examples
-      $ stackgamesempire-gift-list-fetch "http://exmaple/path/to" --steamkey xxxxxx --steamid xxxxxxxxxxx --output result.json
+      $ stackgamesempire-gift-list-diff "http://exmaple/path/to" --steamkey xxxxxx --steamid xxxxxxxxxxx --output result.json
 `,
   {
     flags: {

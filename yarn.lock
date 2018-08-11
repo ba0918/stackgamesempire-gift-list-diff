@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@ba0918/stackgamesempire-gift-list-fetch@^0.0.14":
-  version "0.0.14"
-  resolved "https://registry.yarnpkg.com/@ba0918/stackgamesempire-gift-list-fetch/-/stackgamesempire-gift-list-fetch-0.0.14.tgz#ec791e4a2be36a04643fa4e4398d416771f11c51"
+"@ba0918/stackgamesempire-gift-list-fetch@^0.0.15":
+  version "0.0.15"
+  resolved "https://registry.yarnpkg.com/@ba0918/stackgamesempire-gift-list-fetch/-/stackgamesempire-gift-list-fetch-0.0.15.tgz#8b6a54800aaa7532e53ca12f10ddbcf2f6208b39"
   dependencies:
     meow "^4.0.0"
     puppeteer "^0.13.0"

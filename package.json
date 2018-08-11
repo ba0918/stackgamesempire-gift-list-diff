@@ -19,7 +19,7 @@
     "build": "cross-env NODE_ENV=production tsc -p ."
   },
   "dependencies": {
-    "@ba0918/stackgamesempire-gift-list-fetch": "^0.0.14",
+    "@ba0918/stackgamesempire-gift-list-fetch": "^0.0.15",
     "meow": "^4.0.0"
   },
   "devDependencies": {

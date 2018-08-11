@@ -1,6 +1,6 @@
 {
   "name": "@ba0918/stackgamesempire-gift-list-diff",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "積みゲー帝国のプレゼント応募ページのゲーム一覧と所有しているゲーム一覧との差分をとるコマンド",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
